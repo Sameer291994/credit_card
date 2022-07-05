@@ -1,0 +1,34 @@
+.form {
+    margin-bottom: 24px;
+}
+.form-field {
+    display: block;
+    margin-bottom: 8px;
+}
+.form-field > label {
+    display: block;
+    margin-bottom: 4px;
+}
+.form-field > input {
+    display: block;
+    height: 30px;
+    width: 350px
+}
+
+table {
+    width: 100%;
+    border-spacing: 0;
+}
+thead, th {
+    background-color: #d7d7d7;
+}
+th, td {
+    border: 1px solid #a6a6a6;
+    border-spacing: 0;
+    padding: 8px;
+}
+.error {
+    color: red;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}

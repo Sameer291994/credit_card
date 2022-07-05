@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: sans-serif, 'Segoe UI', 'Roboto', 'Oxygen';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+html {
+  display: block;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+.add-card-button {
+  width: 100px;
+  height: 20px;
+}
